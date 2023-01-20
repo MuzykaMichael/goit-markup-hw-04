@@ -136,7 +136,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
     ),
-    url(./images/people-office1.jpg);
+    url(../images/people-office1.jpg);
     background-size: 1440px;
     background-position:center;
     background-repeat:no-repeat;
